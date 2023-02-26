@@ -17,5 +17,9 @@ public class Learn1 {
 		
 		System.out.println("hello");
 	}
+	
+	public void foo1() {
+		System.out.println("Who are you?");
+	}
 }
 
